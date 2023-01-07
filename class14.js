@@ -45,3 +45,5 @@ console.log(typeof avgscore);
 let value=(finalscore**2)*10/(finalscores+totalGames);
 console.log(value);
 console.log(typeof value); // value = NAN(not a number)
+
+
